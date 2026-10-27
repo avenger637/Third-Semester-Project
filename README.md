@@ -1,10 +1,3 @@
-That change actually makes your project significantly more interesting! Instead of building an Event Management System specifically for your data analytics sessions, you're now building a **general-purpose Event Management System that can adapt to different types of events**, from weddings and conferences to workshops, seminars, and sports tournaments.
-
-Since you're third-semester students, using Java and Supabase, and want minimal AI involvement, I recommend an approach that emphasizes **object-oriented programming, data structures and algorithms, database design, and rule-based customization** rather than complicated technologies.
-
-The key is to avoid building a separate application for every event type. Instead, build one flexible system with a common foundation and specialized functionality that can be enabled when needed.
-
-Let's design it around that principle.
 
 # 1. Project Vision
 
